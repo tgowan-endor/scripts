@@ -1,5 +1,5 @@
 typer
 requests
 colorlog
-pandas
+pandas==3.0.6
 openpyxl
